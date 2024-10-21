@@ -10,7 +10,7 @@ function Main() {
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-          <img src={avatar} alt="Avatar" />
+        <img src={avatar} alt="Avatar" style={{ width: '300px', height: '300px' }} />
         </div>
         <div className="content">
           <div className="social_icons">
